@@ -105,7 +105,17 @@ The analysis provides deep insights into **car pricing trends, sales distributio
 
 ---
 
-## 📂 Folder Structure
+## ▶️ How to Run
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/btwitravi/Car_Sales_Price_EDA.git
 
-Car_Sales_Price_EDA/ │ ├── Car_Price_analysis.ipynb        # Jupyter Notebook with full analysis ├── Car_price.csv                   # Dataset ├── images/                         # Saved plots (Matplotlib outputs) │   ├── Statewise_Revenue.png │   ├── Top5_Revenue_Brands.png │   ├── Top5_Sold_Brands.png │   ├── Fuel_Type_Distribution.png │   ├── Accidental_Distribution.png │   └── Yearwise_Sales_Revenue.png ├── README.md                       # Project documentation
+2. Open the Jupyter Notebook:
+
+jupyter notebook Car_Price_analysis.ipynb
+
+
+3. Install required libraries:
+
+pip install pandas numpy matplotlib 
 
