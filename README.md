@@ -103,3 +103,9 @@ The analysis provides deep insights into **car pricing trends, sales distributio
 - **Most cars are non-accidental**, showing positive quality standards.  
 
 
+---
+
+## 📂 Folder Structure
+
+Car_Sales_Price_EDA/ │ ├── Car_Price_analysis.ipynb        # Jupyter Notebook with full analysis ├── Car_price.csv                   # Dataset ├── images/                         # Saved plots (Matplotlib outputs) │   ├── Statewise_Revenue.png │   ├── Top5_Revenue_Brands.png │   ├── Top5_Sold_Brands.png │   ├── Fuel_Type_Distribution.png │   ├── Accidental_Distribution.png │   └── Yearwise_Sales_Revenue.png ├── README.md                       # Project documentation
+
