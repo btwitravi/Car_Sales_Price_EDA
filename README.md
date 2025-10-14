@@ -57,8 +57,9 @@ The dataset has been downloaded from **Kaggle**:
 2. **Fuel Type Distribution**  
    - **Petrol:** 56.2 % | **Diesel:** 29.8 % | **CNG:** 10 % | **Hybrid & Electric:** ~2 %  
    - Petrol cars dominate the market, while electric and hybrid vehicles remain minimal.  
-   - *(Visualization: Pie chart — Fuel Type)*  
 
+![image](Distribution_of_Fuel_Type.png)
+    
 3. **Accidental vs Non-Accidental Cars**  
    - **Accidental:** 8 % | **Non-Accidental:** 92 %  
    - Indicates that most vehicles are in good condition; buyers prefer non-accidental cars.  
