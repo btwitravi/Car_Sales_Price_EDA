@@ -107,8 +107,8 @@ The analysis provides deep insights into **car pricing trends, sales distributio
 
 ## ▶️ How to Run
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/btwitravi/Car_Sales_Price_EDA.git
+ git clone
+   https://github.com/btwitravi/Car_Sales_Price_EDA.git
 
 2. Open the Jupyter Notebook:
 
