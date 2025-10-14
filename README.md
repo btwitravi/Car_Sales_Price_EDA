@@ -63,7 +63,7 @@ The dataset has been downloaded from **Kaggle**:
 3. **Accidental vs Non-Accidental Cars**  
    - **Accidental:** 8 % | **Non-Accidental:** 92 %  
    - Indicates that most vehicles are in good condition; buyers prefer non-accidental cars.  
-   - *(Visualization: Donut chart)*  
+![image](Accidental.png) 
 
 4. **Top 5 Revenue-Generating Brands**  
    | Brand | Total Revenue (₹) |
@@ -74,7 +74,7 @@ The dataset has been downloaded from **Kaggle**:
    | Honda | 8.24 B |
    | Tata | 7.96 B |
    - **Maruti Suzuki** alone contributes ~37.6 % of total sales revenue.  
-   - *(Visualization: Horizontal bar chart — Revenue by Brand)*  
+    ![image](Revenue_Car.png) 
 
 5. **Top 5 Selling Car Brands**  
    | Brand | Cars Sold |
@@ -85,13 +85,13 @@ The dataset has been downloaded from **Kaggle**:
    | Toyota | 10,483 |
    | Mahindra | 9,618 |
    - **Maruti Suzuki** leads with nearly 50 % share among the top-selling brands.  
-   - *(Visualization: Bar chart — Units Sold by Brand)*  
+    ![image](Sold_Car.png)
 
 6. **Top & Bottom 10 Years Comparison (Revenue & Units Sold)**  
    - Top years show peak sales and revenue — representing strong market demand.  
    - Bottom years reflect slower market periods or lower-priced cars.  
    - Some years show high revenue despite fewer sales — due to premium car influence.  
-   - *(Visualization: Line + Bar charts — Year-wise Sales & Revenue)*  
+   ![image](Year_wise_r_s.png)
 
 ---
 
