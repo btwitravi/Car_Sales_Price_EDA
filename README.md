@@ -17,3 +17,9 @@ This project performs **Exploratory Data Analysis (EDA)** and **Key Performance 
 ### Dataset Source
 The dataset has been downloaded from **Kaggle**:  
 [Car Sales Dataset on Kaggle](https://www.kaggle.com/datasets/milapgohil/car-dataset)
+
+## Tools & Libraries
+- **Python 3.x**
+- **Pandas** – Data manipulation and analysis
+- **NumPy** – Numerical operations
+- **Matplotlib** – Data visualization
