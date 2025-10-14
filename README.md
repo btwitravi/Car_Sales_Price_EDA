@@ -16,8 +16,10 @@ All visualizations are created using **Matplotlib**, and the analysis highlights
 The dataset has been downloaded from **Kaggle**:  
 [Car Sales Dataset on Kaggle](https://www.kaggle.com/datasets/milapgohil/car-dataset)
 
-## Tools & Libraries
+## 🛠 Tools & Libraries
 - **Python 3.x**
-- **Pandas** – Data manipulation and analysis
-- **NumPy** – Numerical operations
-- **Matplotlib** – Data visualization
+- **Pandas** – Data cleaning and manipulation  
+- **NumPy** – Statistical computations  
+- **Matplotlib** – Data visualization  
+- **Jupyter Notebook** – Analysis and reporting  
+
