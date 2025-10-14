@@ -33,7 +33,8 @@ The dataset has been downloaded from **Kaggle**:
    - **Maximum Price:** ₹2,744,280  
    - **Minimum Price:** ₹50,055  
    - Most cars fall in the mid-price range (₹4–10 lakhs), with a few luxury vehicles priced higher.  
-   - *(Visualization: KPI Bar Chart + Price Distribution Histogram)*  
+    ![image](Price_Distrubtion.png)
+
 
 2. **Kilometers (Distance) Analysis**
    - **Total Distance Driven:** 13,389,345,673 km  
