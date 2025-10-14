@@ -42,8 +42,9 @@ The dataset has been downloaded from **Kaggle**:
    - **Maximum Distance:** 179,998 km  
    - **Minimum Distance:** 10,000 km  
    - Majority of vehicles have moderate mileage (50 K–140 K km), showing balanced usage.  
-   - *(Visualization: KPI Bar Chart + Distance Boxplot)*  
 
+![image](Distance_Distrubtions.png]
+   
 ---
 
 ## 🔍 EDA Insights
