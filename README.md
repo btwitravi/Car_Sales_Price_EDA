@@ -119,3 +119,10 @@ jupyter notebook Car_Price_analysis.ipynb
 
 pip install pandas numpy matplotlib 
 
+## 👨‍💻 Author
+
+**Ravi Kumar Gupta**  
+- 📧 Email: [Ravikumargupta462@gmail.com](mailto:Ravikumargupta462@gmail.com)  
+- 🔗 LinkedIn: [Ravi Kumar Gupta](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)  
+- 🐙 GitHub: [@btwitravi](https://github.com/btwitravi)
+  
