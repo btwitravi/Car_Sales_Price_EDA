@@ -1,7 +1,11 @@
 # Car_Sales_Price_EDA
 
-## Project Overview
-This project performs **Exploratory Data Analysis (EDA)** and **Key Performance Indicator (KPI) analysis** on a car sales dataset. The goal is to extract actionable insights, understand trends, and evaluate performance across brands, models, and years.
+## 📘 Project Overview
+This project focuses on **Exploratory Data Analysis (EDA)** of a car sales dataset to uncover insights about car prices, mileage, brand performance, and sales distribution across different regions and years.  
+All visualizations are created using **Matplotlib**, and the analysis highlights both **Price** and **Kilometers (Distance)** as the main KPIs.
+
+---
+
 
 ---
 ## Dataset
