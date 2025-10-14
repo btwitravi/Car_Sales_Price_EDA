@@ -13,4 +13,7 @@ This project performs **Exploratory Data Analysis (EDA)** and **Key Performance 
   - `Price` – Price of the car
   - `Accidental` – Whether the car has had an accident (`Yes/No`)
   - Other relevant attributes for analysis
-  - 
+
+### Dataset Source
+The dataset has been downloaded from **Kaggle**:  
+[Car Sales Dataset on Kaggle](https://www.kaggle.com/datasets)  
