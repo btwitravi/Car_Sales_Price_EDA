@@ -50,7 +50,7 @@ The dataset has been downloaded from **Kaggle**:
 1. **State-wise Revenue (Top & Bottom States)**  
    - **Maharashtra** contributed the **highest revenue** (₹19.46 B) ≈ **18.14 %** of total sales.  
    - **Puducherry** had the **lowest revenue** (₹0.19 B) ≈ **0.18 %** of total sales.  
-   - *(Visualization: Bar chart — State vs Revenue)*  
+     
 
 2. **Fuel Type Distribution**  
    - **Petrol:** 56.2 % | **Diesel:** 29.8 % | **CNG:** 10 % | **Hybrid & Electric:** ~2 %  
