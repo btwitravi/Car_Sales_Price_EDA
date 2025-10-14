@@ -99,4 +99,4 @@ The analysis provides deep insights into **car pricing trends, sales distributio
 - **Petrol cars** hold the largest market share, while **Electric vehicles** are still emerging.  
 - **Most cars are non-accidental**, showing positive quality standards.  
 
-images/
+
