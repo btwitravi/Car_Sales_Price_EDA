@@ -6,17 +6,11 @@ All visualizations are created using **Matplotlib**, and the analysis highlights
 
 ---
 
-
----
-## Dataset
-- The dataset contains information about car sales from 2001 to 2020.
+## 🧩 Dataset
+- The dataset contains records of **140,904** cars.
 - Key columns include:
-  - `Brand` – Car brand name
-  - `Model` – Car model
-  - `Year` – Manufacturing year
-  - `Price` – Price of the car
-  - `Accidental` – Whether the car has had an accident (`Yes/No`)
-  - Other relevant attributes for analysis
+  - `Brand`, `Car Type`, `Transmission`, `Fuel Type`, `Year`, `Kilometers`, `Owner`, `State`, `Accidental`, `Price`
+- Covers data from multiple states in India between 2001 and 2022.
 
 ### Dataset Source
 The dataset has been downloaded from **Kaggle**:  
