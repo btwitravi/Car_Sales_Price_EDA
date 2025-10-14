@@ -43,7 +43,7 @@ The dataset has been downloaded from **Kaggle**:
    - **Minimum Distance:** 10,000 km  
    - Majority of vehicles have moderate mileage (50 K–140 K km), showing balanced usage.  
 
-![image](Distance_Distrubtions.png]
+![image](Distance_Distrubtions.png)
    
 ---
 
